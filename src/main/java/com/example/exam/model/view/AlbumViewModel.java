@@ -20,8 +20,6 @@ public class AlbumViewModel {
     public AlbumViewModel() {
     }
 
-
-
     public Long getId() {
         return id;
     }
